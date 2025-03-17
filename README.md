@@ -1,4 +1,4 @@
-## Hey There 👋
+<h2 align="center"> Hi There :)❤</h2>
 
 <p align="center">
 <img width="500px" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
@@ -6,16 +6,17 @@
 <h3 align="center"> I'm Saeed Shokrollahi:)💻</h3> 
 
 <br/><br/>
-##📜 My Activities
+<h2 align="center">📜 My Activities </h2>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saeed-devee&show_icons=true&theme=radical">
 </p>
 
 ----
--💻 &nsbp; I'm a Junior `FrontEnd` Developer
+-💻 &nbsp; I'm a Junior `FrontEnd` Developer
 
--⭐ &nsbp; **Always Ready** To Learn New Stuff :)
+-⭐ &nbsp; **Always Ready** To Learn New Stuff :)
 
 ----
 ```diff
