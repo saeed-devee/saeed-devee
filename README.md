@@ -6,7 +6,7 @@
 <h3 align="center"> I'm Saeed Shokrollahi:)💻</h3> 
 
 <br/><br/>
-##📜 My Activity
+##📜 My Activities
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saeed-devee&show_icons=true&theme=radical">
@@ -28,4 +28,18 @@ let myBio = {
 ```
 <br/>
 <h3 align="center">Tech Stack</h2>
-<a href=""></a>
+
+<p align="center">
+  
+ [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+ 
+ [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+ 
+ [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+ 
+ [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+ 
+</p>
+ 
