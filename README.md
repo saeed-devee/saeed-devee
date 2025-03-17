@@ -30,7 +30,7 @@ let myBio = {
 <br/>
 <h3>Tech Stack</h2>
 
-<a align="center">
+<p align="center">
   
  - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
   
@@ -44,5 +44,12 @@ let myBio = {
 
  - [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
  
-</a>
+</p>
+
+<h2>📞 Contact Me Via: </h2>
+<p align="center">
+  <a href="http://instagram.com/sa33d._.sh/">
+   <img src="https://img.shields.io/badge/My_page-sa33d._.sh-red?logo=instagram">
+  </a>
+</p>
  
