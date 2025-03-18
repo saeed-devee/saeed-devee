@@ -14,9 +14,12 @@
 </p>
 
 ----
--💻 &nbsp; I'm a Junior `FrontEnd` Developer
 
+<h2 align="center">👨‍💻About Me</h2>
+-💻 &nbsp; I'm a Junior `FrontEnd` Developer
 -⭐ &nbsp; **Always Ready** To Learn New Stuff :)
+-🔍 &nbsp; Love Researching About New Technologies
+-🌠 &nbsp; Busy To Learn Git & React JS
 
 ----
 ```diff
