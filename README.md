@@ -46,10 +46,16 @@ let myBio = {
  
 </p>
 
-<h2>📞 Contact Me Via: </h2>
+<h2 align="center">📞 Contact Me Via: </h2>
 <p align="center">
-  <a href="http://instagram.com/sa33d._.sh/">
-   <img src="https://img.shields.io/badge/My_page-sa33d._.sh-red?logo=instagram">
+  <a href="http://instagram.com/sa33d.pv/">
+   <img src="https://img.shields.io/badge/Instagram-sa33d.pv-red?logo=instagram">
+  </a>
+  <a href="http://t.me/sa33dSh/">
+   <img src="https://img.shields.io/badge/Telegram-sa33dSh-blue?logo=telegram">
+  </a>
+   <a href="https://github.com/saeed-devee">
+   <img src="https://img.shields.io/badge/Github-saeed_devee-white?logo=github">
   </a>
 </p>
  
