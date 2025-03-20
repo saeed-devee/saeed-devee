@@ -51,7 +51,7 @@ let myBio = {
 
 <h2 align="center">📞 Contact Me Via: </h2>
 <p align="center">
-  <a href="http://instagram.com/sa33d.pv/">
+  <a href="http://instagram.com/sa33d._.sh/">
    <img src="https://img.shields.io/badge/Instagram-sa33d._.sh-red?logo=instagram">
   </a>
   <a href="http://t.me/sa33dSh/">
