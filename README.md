@@ -19,7 +19,7 @@
 -💻 &nbsp; I'm a Junior `FrontEnd` Developer
 -⭐ &nbsp; **Always Ready** To Learn New Stuff :)
 -🔍 &nbsp; Love Researching About New Technologies
--🌠 &nbsp; Busy With Learning VueJs ☕
+-🌠 &nbsp; Busy With Learning React ☕
 ----
 ```diff
 let myBio = {
