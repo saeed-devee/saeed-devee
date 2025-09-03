@@ -1,7 +1,7 @@
 <h2 align="center" font="10px"> 𝐻𝒾 𝒯𝒽𝑒𝓇𝑒 𝐹𝑒𝓁𝓁𝑜𝓌 :)❤</h2>
 
 <p align="center">
-<img width="500px" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+<img width="500px" height="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdrYWVqenRxbncwOXB1ZDVhMHNnaXUweWZ0Zm0xMmQydnh3eW1zOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif" />
 </p>
 <h3 align="center"> ɪ'ᴍ ꜱᴀᴇᴇᴅ ꜱʜᴏᴋʀᴏʟʟᴀʜɪ 💻</h3> 
 
