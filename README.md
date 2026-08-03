@@ -4,14 +4,7 @@
 <img width="500px" height="300px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdrYWVqenRxbncwOXB1ZDVhMHNnaXUweWZ0Zm0xMmQydnh3eW1zOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif" />
 </p>
 <h3 align="center"> ɪ'ᴍ ꜱᴀᴇᴇᴅ ꜱʜᴏᴋʀᴏʟʟᴀʜɪ 💻</h3> 
-
 <br/><br/>
-<h2 align="center">📜 My Activities </h2>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeed-devee&show_icons=true&theme=radical">
-</p>
 
 ----
 
@@ -40,17 +33,19 @@ let myBio = {
  
  - [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
  
- - [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+ - [![React Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 
  - [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+
+ - [![Three Js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](#)
+
+ - [![GSAP Animations](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)](#)
 
  - [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](#)
 
  - [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
  
  - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-   
- - [![Chat-GPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#)
- 
+    
 </p>
  
