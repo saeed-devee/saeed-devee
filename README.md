@@ -8,11 +8,14 @@
 
 </div>
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TailwindCSS+%7C+Three.js;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
-
+</div>
 <br/>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=saeed-devee&style=for-the-badge&color=blue"/>
+</div>
 
 --------
 
