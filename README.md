@@ -52,31 +52,10 @@ const saeed = {
 
 ---
 
-## 📊 Activity Overview
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saeed-devee&theme=react-dark&hide_border=true&bg_color=0f172a&color=38bdf8&line=2563eb&point=ffffff&area=true" width="100%"/>
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saeed-devee&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=2563eb&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-devee&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" width="35%"/>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=saeed-devee&theme=react&hide_border=true&background=0f172a&ring=2563eb&fire=38bdf8&currStreakLabel=38bdf8" width="60%"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saeed-devee&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 </div>
 
 ---
